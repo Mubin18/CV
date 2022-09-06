@@ -1,0 +1,23 @@
+body {
+  background-color: #EEE3CB;
+}
+hr {
+  border-style:none;
+  border-top-style: dotted;
+  border-color: #967E76;
+  border-width: 7px;
+  width: 3%
+}
+h1{
+  color:#355764;
+  font-family:	Brush Script MT;
+}
+h3{
+  color:#355764;
+}
+h2{
+  font-family:	Brush Script MT;
+}
+img{
+  border-radius: 100%;
+}
